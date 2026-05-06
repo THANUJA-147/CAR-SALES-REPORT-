@@ -1,2 +1,2 @@
-CAR SALES REPORT- POWERBI
+# CAR SALES REPORT- POWERBI
 This project presents a Car Sales Report built through end‑to‑end analysis, starting with data cleaning in Excel to standardize car model details, remove duplicates, and handle missing values using formulas such as VLOOKUP, SUMIFS, and logical imputation. The cleaned dataset was then imported into Power BI, where interactive dashboards and visual reports were designed to highlight sales trends, top‑selling models, revenue patterns, and regional performance. By combining Excel’s preprocessing with Power BI’s visualization capabilities, the project delivers clear insights into car sales dynamics and supports data‑driven decision‑making.
